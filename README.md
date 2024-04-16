@@ -1,3 +1,29 @@
+# Rezilla
+
+Exciting news! Introducing "Rezilla" - our latest real estate platform crafted by our dedicated team at the Information Technology Institute. 🚀👨‍💻
+
+Rezilla is your go-to hub for all things real estate, offering:
+
+## Features
+
+- **Global Property Showcase**: Explore our vast collection of real estate listings from around the world.
+
+- **Advanced Search and Filtering**: Find properties tailored to your preferences with our advanced search tools.
+
+- **Favorites List**: Save and compare your favorite listings effortlessly.
+
+- **Seamless Property Submission**: Easily list your properties with our intuitive "Add Place" feature.
+
+## Technologies Used
+
+Powered by Angular, EmailJS, Bootstrap, and more, Rezilla delivers a seamless user experience. 💻🏢
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository_url>
 # MyAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
